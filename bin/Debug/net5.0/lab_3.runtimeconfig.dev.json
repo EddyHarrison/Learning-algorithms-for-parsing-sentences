@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kalki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kalki\\.nuget\\packages"
+    ]
+  }
+}

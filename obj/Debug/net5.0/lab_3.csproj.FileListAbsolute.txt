@@ -1,0 +1,16 @@
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\bin\Debug\net5.0\lab_3.exe
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\bin\Debug\net5.0\lab_3.deps.json
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\bin\Debug\net5.0\lab_3.runtimeconfig.json
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\bin\Debug\net5.0\lab_3.runtimeconfig.dev.json
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\bin\Debug\net5.0\lab_3.dll
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\bin\Debug\net5.0\ref\lab_3.dll
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\bin\Debug\net5.0\lab_3.pdb
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\obj\Debug\net5.0\lab_3.csproj.AssemblyReference.cache
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\obj\Debug\net5.0\lab_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\obj\Debug\net5.0\lab_3.AssemblyInfoInputs.cache
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\obj\Debug\net5.0\lab_3.AssemblyInfo.cs
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\obj\Debug\net5.0\lab_3.csproj.CoreCompileInputs.cache
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\obj\Debug\net5.0\lab_3.dll
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\obj\Debug\net5.0\ref\lab_3.dll
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\obj\Debug\net5.0\lab_3.pdb
+E:\deksp\4 курс\1 семестр\теория языков и методы трансляции\laba3\C#\obj\Debug\net5.0\lab_3.genruntimeconfig.cache
